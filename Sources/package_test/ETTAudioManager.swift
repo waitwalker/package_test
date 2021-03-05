@@ -1,5 +1,6 @@
-
 import AVFoundation
+
+/// 录音&播放管理
 
 
 /// 录音回调
